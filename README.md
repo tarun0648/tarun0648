@@ -28,7 +28,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
+## About Me
 
 ```yaml
 whoami: Tarun S
@@ -48,7 +48,7 @@ Outside of internships, I design and ship end-to-end AI systems — from a self-
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Outside of internships, I design and ship end-to-end AI systems — from a self-
 
 <br/>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Outside of internships, I design and ship end-to-end AI systems — from a self-
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VYUpQ8SUhz0e/giphy.gif" width="30"> Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🔴 AI-Powered Portfolio</b></summary>
@@ -280,7 +280,7 @@ Vite/React/TypeScript single-page portfolio for a performer, featuring a canvas-
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Experience
+## Experience
 
 ### Full Stack Developer Intern — Bright Nodes
 
@@ -313,7 +313,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> Achievements
+## Achievements
 
 <div align="center">
 
@@ -329,7 +329,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Certifications
+## Certifications
 
 <div align="center">
 
@@ -353,7 +353,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"> Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -366,7 +366,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -381,7 +381,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30"> GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -391,7 +391,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/xUOwGia8KJnH0zTuTe/giphy.gif" width="30"> Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -401,7 +401,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="30"> Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -411,7 +411,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/H4PkGYWs9fJVK/giphy.gif" width="30"> Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -436,7 +436,7 @@ open_to:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/fLcVXwbLXRIadxbmv6/giphy.gif" width="30"> Connect
+## Connect
 
 <div align="center">
 
