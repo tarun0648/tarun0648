@@ -329,29 +329,6 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Certifications
-
-<div align="center">
-
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner_Track-6d28d9?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-4c1d95?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified_Course-8b5cf6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Certified](https://img.shields.io/badge/Cisco-Networking_Basics-6d28d9?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"> Coding Profiles
 
