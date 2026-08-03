@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:6d28d9&height=220&section=header&text=TARUN%20S&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f1d1d,100:dc2626&height=220&section=header&text=TARUN%20S&fontSize=60&fontColor=fecaca&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML" />
 
 <a href="https://taruns.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+systems;Backend+Architecture+%2B+AI+Integration;Turning+complex+problems+into+shipped+products;PES+University+%7C+CSE+(AIML))" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+systems;Backend+Architecture+%2B+AI+Integration;Turning+complex+problems+into+shipped+products;PES+University+%7C+CSE+(AIML))" />
 </a>
 
 <br/>
 
-![PES University](https://img.shields.io/badge/PES_University-CSE_(AIML)-6d28d9?style=for-the-badge&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bangalore,_India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![PES University](https://img.shields.io/badge/PES_University-CSE_(AIML)-dc2626?style=for-the-badge&logo=studyverse&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bangalore,_India-7f1d1d?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<a href="https://taruns.xyz"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/taruns0648"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:taruns0648@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/tarun0648"><img src="https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://taruns.xyz"><img src="https://img.shields.io/badge/Portfolio-ef4444?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/taruns0648"><img src="https://img.shields.io/badge/LinkedIn-7f1d1d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:taruns0648@gmail.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/tarun0648"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tarun0648&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/tarun0648?color=4c1d95&style=for-the-badge&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/tarun0648?color=8b5cf6&style=for-the-badge&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=tarun0648&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/tarun0648?color=7f1d1d&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/tarun0648?color=ef4444&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
@@ -92,7 +92,7 @@ Outside of internships, I design and ship end-to-end AI systems — from a self-
 ## <img src="https://media.giphy.com/media/WFZvB7VYUpQ8SUhz0e/giphy.gif" width="30"> Featured Projects
 
 <details>
-<summary><b>🟣 AI-Powered Portfolio</b></summary>
+<summary><b>🔴 AI-Powered Portfolio</b></summary>
 <br/>
 
 Self-hosting Next.js 16 portfolio paired with a standalone Express/NVIDIA-NIM backend powering a terminal-styled "Chat with my AI" assistant that answers strictly from a curated profile with anti-hallucination guardrails and action-token driven resume/contact cards. Every section renders from the same backend via Firestore with a three-tier fallback chain, so content updates live without a redeploy.
@@ -109,7 +109,7 @@ Self-hosting Next.js 16 portfolio paired with a standalone Express/NVIDIA-NIM ba
 </details>
 
 <details>
-<summary><b>🟣 Peppy Pick — AI-Powered Career Platform</b></summary>
+<summary><b>🔴 Peppy Pick — AI-Powered Career Platform</b></summary>
 <br/>
 
 Modular Flask/Firestore backend that parses resumes, LinkedIn, and GitHub profiles, scores portfolio sites, and runs two-mode AI mock interviews generated from a job title or pasted job description. Features async task management, three authentication paths, gamified profile completion, and a resume-to-JD compatibility scorer with a deterministic fallback.
@@ -126,7 +126,7 @@ Modular Flask/Firestore backend that parses resumes, LinkedIn, and GitHub profil
 </details>
 
 <details>
-<summary><b>🟣 Sleep Stage Detection</b></summary>
+<summary><b>🔴 Sleep Stage Detection</b></summary>
 <br/>
 
 PyTorch pipeline classifying EEG sleep stages on the Sleep-EDF dataset, combining a class-weighted 1D-CNN baseline with a VAE-based synthetic minority-class augmenter and SimCLR self-supervised pretraining for low-label regimes.
@@ -143,7 +143,7 @@ PyTorch pipeline classifying EEG sleep stages on the Sleep-EDF dataset, combinin
 </details>
 
 <details>
-<summary><b>🟣 Cascading Failure Prediction</b></summary>
+<summary><b>🔴 Cascading Failure Prediction</b></summary>
 <br/>
 
 Dynamic spatio-temporal GNN (GraphSAGE + GRU + attention) trained on Google's Borg cluster traces to predict cloud machine failures ~15 minutes ahead, reaching 0.745 AUROC with gradient-based critical-node interpretability.
@@ -160,7 +160,7 @@ Dynamic spatio-temporal GNN (GraphSAGE + GRU + attention) trained on Google's Bo
 </details>
 
 <details>
-<summary><b>🟣 HalluDetect</b></summary>
+<summary><b>🔴 HalluDetect</b></summary>
 <br/>
 
 Hallucination-detection system fusing DeBERTa NLI entailment, semantic similarity, and a Gemini LLM judge into a calibrated HalluScore, with an optional FAISS-backed RAG mode and a Flask dashboard for live scoring.
@@ -177,7 +177,7 @@ Hallucination-detection system fusing DeBERTa NLI entailment, semantic similarit
 </details>
 
 <details>
-<summary><b>🟣 Plastic Waste Flow Prediction</b></summary>
+<summary><b>🔴 Plastic Waste Flow Prediction</b></summary>
 <br/>
 
 Analytics pipeline modeling global plastic trade as a NetworkX graph, forecasting production via ARIMA/Prophet/LSTM, and flagging anomalous countries with Isolation Forest and DBSCAN, visualized in a Plotly Dash dashboard.
@@ -194,7 +194,7 @@ Analytics pipeline modeling global plastic trade as a NetworkX graph, forecastin
 </details>
 
 <details>
-<summary><b>🟣 Realtime Chat App</b></summary>
+<summary><b>🔴 Realtime Chat App</b></summary>
 <br/>
 
 WhatsApp-style messaging platform with a Flask/Socket.IO backend and React frontend, supporting group chats, live typing indicators, multi-channel read receipts, and presence tracking over a normalized MySQL schema.
@@ -211,7 +211,7 @@ WhatsApp-style messaging platform with a Flask/Socket.IO backend and React front
 </details>
 
 <details>
-<summary><b>🟣 Audio Customizer</b></summary>
+<summary><b>🔴 Audio Customizer</b></summary>
 <br/>
 
 Full-stack audio editor letting users trim, speed-shift, pitch-shift, fade, and reverse audio via an Express backend that shells out to FFmpeg, with MongoDB-tracked processed outputs and in-browser playback.
@@ -228,7 +228,7 @@ Full-stack audio editor letting users trim, speed-shift, pitch-shift, fade, and 
 </details>
 
 <details>
-<summary><b>🟣 Whisper Speech-to-Text Transcription</b></summary>
+<summary><b>🔴 Whisper Speech-to-Text Transcription</b></summary>
 <br/>
 
 Batch transcription tool using OpenAI Whisper to translate mixed Urdu/English audio into English text, with CPU/GPU execution paths and a CUDA diagnostic script.
@@ -245,7 +245,7 @@ Batch transcription tool using OpenAI Whisper to translate mixed Urdu/English au
 </details>
 
 <details>
-<summary><b>🟣 Dynamic FAQ Builder</b></summary>
+<summary><b>🔴 Dynamic FAQ Builder</b></summary>
 <br/>
 
 Full-stack FAQ platform with a hand-built TF-IDF relevance engine and Gemini-powered answer generation, featuring a hardened Express API (JWT auth, rate limiting, XSS sanitization) and real-time Firestore sync.
@@ -262,7 +262,7 @@ Full-stack FAQ platform with a hand-built TF-IDF relevance engine and Gemini-pow
 </details>
 
 <details>
-<summary><b>🟣 Artist Portfolio</b></summary>
+<summary><b>🔴 Artist Portfolio</b></summary>
 <br/>
 
 Vite/React/TypeScript single-page portfolio for a performer, featuring a canvas-animated video hero, categorized performance gallery, dual-audience services tabs, and a backend-free tour-dates CMS persisted to localStorage.
@@ -329,6 +329,29 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Certifications
+
+<div align="center">
+
+**AWS**
+
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner_Track-dc2626?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-7f1d1d?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified_Course-ef4444?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![Cisco Certified](https://img.shields.io/badge/Cisco-Networking_Basics-dc2626?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"> Coding Profiles
 
@@ -347,12 +370,12 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarun0648&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&ring_color=6d28d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun0648&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=e9d5ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarun0648&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=f87171&icon_color=ef4444&text_color=fecaca&ring_color=dc2626" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun0648&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=f87171&text_color=fecaca" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun0648&theme=tokyonight&hide_border=true&background=0f0524&ring=6d28d9&fire=8b5cf6&currStreakLabel=a78bfa" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun0648&theme=radical&hide_border=true&background=0a0a0a&ring=dc2626&fire=ef4444&currStreakLabel=f87171" />
 
 </div>
 
@@ -362,7 +385,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarun0648&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=tarun0648&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -372,7 +395,7 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarun0648&theme=tokyo-night&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=e9d5ff&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarun0648&theme=radical&bg_color=0a0a0a&color=f87171&line=ef4444&point=fecaca&hide_border=true" />
 
 </div>
 
@@ -417,10 +440,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:taruns0648@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/taruns0648"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/tarun0648"><img src="https://img.shields.io/badge/GitHub-0f0524?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://taruns.xyz"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:taruns0648@gmail.com"><img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/taruns0648"><img src="https://img.shields.io/badge/LinkedIn-7f1d1d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tarun0648"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://taruns.xyz"><img src="https://img.shields.io/badge/Portfolio-ef4444?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -430,6 +453,6 @@ open_to:
 
 *"Build systems that are secure by default, fast under pressure, and honest about what they don't know."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:0f0524&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:0a0a0a&height=150&section=footer" />
 
 </div>
