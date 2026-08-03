@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:6d28d9&height=220&section=header&text=TARUN%20S&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:6d28d9&height=220&section=header&text=TARUN%20S&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML" />
 
 <a href="https://taruns.xyz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+systems;Backend+Architecture+%2B+AI+Integration;Turning+complex+problems+into+shipped+products;PES+University+%7C+CSE+(AIML))" />
