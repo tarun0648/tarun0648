@@ -329,29 +329,6 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## Certifications
-
-<div align="center">
-
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner_Track-dc2626?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-7f1d1d?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified_Course-ef4444?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Certified](https://img.shields.io/badge/Cisco-Networking_Basics-dc2626?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
-<br/>
 
 ## Coding Profiles
 
@@ -360,7 +337,6 @@ Built the core backend for an AI-powered career development platform, engineered
 <a href="https://leetcode.com/tarun0648"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="https://www.geeksforgeeks.org/user/tarun0648"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/tarun0648"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/tarun0648"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
