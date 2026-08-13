@@ -327,43 +327,12 @@ Built the core backend for an AI-powered career development platform, engineered
 
 </div>
 
-<br/>
-
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/tarun0648"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://www.geeksforgeeks.org/user/tarun0648"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/tarun0648"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-
-</div>
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarun0648&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=f87171&icon_color=ef4444&text_color=fecaca&ring_color=dc2626" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun0648&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=f87171&text_color=fecaca" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun0648&theme=radical&hide_border=true&background=0a0a0a&ring=dc2626&fire=ef4444&currStreakLabel=f87171" />
-
-</div>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tarun0648&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
 
 <br/>
 
@@ -377,13 +346,6 @@ Built the core backend for an AI-powered career development platform, engineered
 
 <br/>
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tarun0648/tarun0648/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 <br/>
 
