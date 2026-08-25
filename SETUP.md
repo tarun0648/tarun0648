@@ -67,7 +67,7 @@ Repo → **Actions** tab → enable workflows if prompted, then run each one via
 
 | workflow | produces | lands in |
 |---|---|---|
-| **Metrics** | 3D isometric calendar, language mix, achievements | `assets/metrics.*.svg` on `main` |
+| **Metrics** | 3D isometric calendar, language mix | `assets/metrics.*.svg` on `main` |
 | **Snake** | snake eating your contribution graph | the `output` branch |
 | **Charts and cards** | both spider charts, stat card, repo cards | `assets/radar*.svg`, `assets/card-*.svg` on `main` |
 
@@ -213,6 +213,14 @@ README are relative (`assets/…`) — those only resolve once the files are act
 
 **Metrics workflow fails.** Almost always the `METRICS_TOKEN` secret: missing, expired, or
 created as a fine-grained token instead of a classic one.
+
+**A metrics image renders a red "Unexpected error" card.** The workflow still reports
+success — the plugin catches its own failure and draws the error into the SVG, so the
+only way to catch this is to look at the image. The achievements plugin did exactly this
+and was removed; `plugin_achievements_secrets: no` did not help, and the error card was
+byte-for-byte the same size as the one in the repo this was forked from, so it is the
+plugin rather than the config. If another plugin starts doing it, drop that step rather
+than leaving the error on the profile.
 
 **Snake images 404.** The Snake workflow hasn't completed yet, or step 3 (write permissions)
 was skipped so it couldn't create the `output` branch.

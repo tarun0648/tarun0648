@@ -128,10 +128,6 @@ mail server decides not to.
 
 <img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
 </div>
 
 ---
