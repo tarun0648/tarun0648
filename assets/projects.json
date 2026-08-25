@@ -1,0 +1,25 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; `description` overrides the repo's GitHub description and `title` overrides the name printed on the card (useful when the repo name is a long course-project slug). Setting descriptions on GitHub too is worth doing - it helps anyone browsing the repo list.",
+  "projects": [
+    {
+      "repo": "SkillBuddy-Frontend-Backend",
+      "title": "Peppy Pick",
+      "description": "AI career platform. A ten-Blueprint Flask backend that turns a resume, LinkedIn, GitHub and a job description into scored feedback and a two-mode mock interview."
+    },
+    {
+      "repo": "HalluDetect",
+      "title": "HalluDetect",
+      "description": "Catches an LLM saying things its sources never supported. NLI entailment, embedding similarity and an LLM judge fused into one calibrated faithfulness score."
+    },
+    {
+      "repo": "CascadingCloudFailures--Deep-Learning-on-Graphs---Project-",
+      "title": "Cascading Cloud Failures",
+      "description": "A dynamic spatio-temporal GNN over Google's Borg trace, predicting which machine fails next about 15 minutes before it does."
+    },
+    {
+      "repo": "Chatapp-Using-React-Flask-Sockets-I",
+      "title": "Realtime Chat App",
+      "description": "1:1 and group messaging over Socket.IO, with live presence, expiring typing indicators and read receipts that survive multiple open tabs."
+    }
+  ]
+}

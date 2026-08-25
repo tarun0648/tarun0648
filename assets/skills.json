@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100, 5-8 axes reads best. Edit and the Charts and cards workflow redraws radar-dark.svg / radar-light.svg on the next push.",
+  "axes": [
+    { "label": "Python",          "value": 90 },
+    { "label": "Flask / APIs",    "value": 86 },
+    { "label": "Node / Express",  "value": 82 },
+    { "label": "React / Next.js", "value": 80 },
+    { "label": "AI / LLMs",       "value": 84 },
+    { "label": "Databases",       "value": 76 },
+    { "label": "Auth / Security", "value": 78 }
+  ]
+}
