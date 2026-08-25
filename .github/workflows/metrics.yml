@@ -63,6 +63,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
+          # Without this HTML is 88% of the chart: the Plotly dashboards and
+          # notebook exports in the course-project repos commit megabytes of
+          # generated markup. Same exclusion the language radar uses.
+          plugin_languages_ignored: html, css
 
       # ------------------------------------------------------------------ #
       # Achievement badges - the self-hosted replacement for
@@ -78,6 +82,8 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
+          # secrets: yes asks for hidden achievements, which needs scopes beyond
+          # read:user and is the usual cause of the plugin's "Unexpected error".
+          plugin_achievements_secrets: no
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
