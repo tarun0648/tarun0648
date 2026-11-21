@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.57750571030138" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="174.57750571030138" y="0" width="126.59847793093124" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="301.1759836412326" y="0" width="94.42758532061148" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.60356896184413" y="0" width="56.227894382597285" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.8314633444414" y="0" width="3.1836998918341344" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="455.01516323627555" y="0" width="2.1707857334541494" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="457.1859489697297" y="0" width="1.519922463101086" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.70587143283075" y="0" width="1.2941285671692275" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.09218197229868" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.09218197229868" y="0" width="125.92664682734505" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="302.0188287996437" y="0" width="93.92647827815925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.9453070778029" y="0" width="55.92950494733096" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.8748120251339" y="0" width="3.1668046759770765" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="455.04161670111097" y="0" width="2.1592658368583053" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="457.2008825379693" y="0" width="1.5118565589730149" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.7127390969423" y="0" width="1.287260903057673" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,8 +40,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.86 MB</div>
-                                <div>37.95%</div>
+                                <div>5.94 MB</div>
+                                <div>38.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>3.17 MB</div>
-                                <div>20.53%</div>
+                                <div>20.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>4.25 MB</div>
-                                <div>27.52%</div>
+                                <div>27.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>1.89 MB</div>
-                                <div>12.22%</div>
+                                <div>12.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
